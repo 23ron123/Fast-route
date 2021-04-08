@@ -1,0 +1,80 @@
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Users\גל\AppData\Local\Temporary Projects\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\גל\Desktop\yoda\FastestMovement\FastestMovement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\FastestMovement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Documents and Settings\שחר\שולחן העבודה\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Orit Rozenberg\Desktop\FastestMovement\1\FastestMovement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csprojResolveAssemblyReference.cache
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Users\yoda\Desktop\cool Stuff\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.GenerateResource.Cache
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.GenerateResource.cache
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Users\Yoda\Desktop\most important projects\1a freeagent disck\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csprojAssemblyReference.cache
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.GenerateResource.cache
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.CoreCompileInputs.cache
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+C:\Users\colleget\Desktop\‏‏תיקיה חדשה\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
+E:\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.exe
+E:\FastestMovement\1\FastestMovement\bin\Debug\FastestMovement.pdb
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csprojAssemblyReference.cache
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Form1.resources
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.Properties.Resources.resources
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.GenerateResource.cache
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.csproj.CoreCompileInputs.cache
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.exe
+E:\FastestMovement\1\FastestMovement\obj\x86\Debug\FastestMovement.pdb
